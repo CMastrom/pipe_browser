@@ -7,7 +7,7 @@ import os
 # Req -> requests
 
 target_dir = os.path.dirname(__file__)+"/pics"
-
+#BILLY WAS HERE
 help = f"""
 	get(url) -> returns the website
 		site = "" -> current site
